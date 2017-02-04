@@ -1,4 +1,4 @@
-main.o: c:/3ds-template-two/3dsCxSimulator/source/main.cpp \
+menu.o: c:/3ds-template-two/3dsCxSimulator/source/menu.cpp \
  c:/devkitPro/libctru/include/3ds.h \
  c:/devkitPro/libctru/include/3ds/types.h \
  c:/devkitPro/libctru/include/3ds/result.h \
